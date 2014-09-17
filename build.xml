@@ -72,7 +72,7 @@ dfgwedwd
 
          To customize existing targets, there are two options:
          - Customize only one target:
-             - copy/paste the target into this file, *before* the
+             - copy/paste the target into sdsddsdsthis file, *before* the
                <import> task.
              - customize it to your needs.
          - Customize the whole content of build.xml
