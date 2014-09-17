@@ -15,7 +15,7 @@ dfv
              The name of the source directory. Default is 'src'.
          out.dir
              The name of the output directory. Default is 'bin'.
-
+erg
          For other overridable properties, look at the beginning of the rules
          files in the SDK, at tools/ant/build.xml
 
