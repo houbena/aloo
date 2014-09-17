@@ -10,18 +10,18 @@
          'android' tool to add properties to it.
          This is the place to change some Ant specific build properties.
          Here are some properties you may want to change/update:
-fvwer
+dfvsdfaerfertwerertrwerwqerasdasdasdsadfgdfgwerwer
          source.dir
              The name of the source directory. Default is 'src'.
          out.dir
              The name of the output directory. Default is 'bin'.
-
+ergwererferfasdasdsderser
          For other overridable properties, look at the beginning of the rules
          files in the SDK, at tools/ant/build.xml
 erf
          Properties related to the SDK location or the project target should
          be updated using the 'android' tool with the 'update' action.
-
+dfgwedwd
          This file is an integral part of the build system for your
          application and should be checked into Version Control Systems.
 
